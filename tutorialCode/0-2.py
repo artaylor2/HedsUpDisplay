@@ -1,3 +1,5 @@
+# Simple file browser interface
+
 import PySimpleGUI as sg
 
 sg.theme('Dark Blue 3')
